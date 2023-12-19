@@ -7,7 +7,7 @@ public class Coins
 		int centamount;
 		quarteramount = givenamount / 25;
 		centamount = givenamount % 25;
-		System.out.println ( " Use " + quarteramount + " quarter and " + centamount + " cents " );
+		System.out.println ( " Use " + quarteramount + " quarters and " + centamount + " cents " );
 	}
 }
 				
